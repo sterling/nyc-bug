@@ -1,0 +1,10 @@
+{
+  "name": "nyc-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sterling/nyc-bug.git",
+  "license": "MIT",
+  "devDependencies": {
+    "nyc": "^15.1.0"
+  }
+}
